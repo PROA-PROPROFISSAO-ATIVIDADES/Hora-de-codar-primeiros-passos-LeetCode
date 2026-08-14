@@ -1,3 +1,5 @@
+// Hash Map
+
 function twoSum(nums, target) {
     const map = new Map();
     
